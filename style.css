@@ -7,3 +7,17 @@ body
 {
     background-color: rgb(40, 74, 117);
 }
+
+#carte
+{
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+}
+
+ul li
+{
+    list-style-type: none;
+}
